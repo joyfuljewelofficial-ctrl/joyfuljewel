@@ -19,7 +19,7 @@ function render(items) {
         <p>${s.cut}</p>
         <p>
   <a href="https://wa.me/919782101120" target="_blank">WhatsApp</a> |
-  <a href="mailto:info@joyfuljewel.com?subject=Gemstone Enquiry">Email</a>
+  <a href="mailto:joyfuljewelofficial@gmail.com?subject=Gemstone Enquiry">Email</a>
 </p>
 
       </div>
