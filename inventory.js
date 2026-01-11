@@ -17,7 +17,11 @@ function render(items) {
         <p>${s.category}</p>
         <p>${s.weight}</p>
         <p>${s.cut}</p>
-        <p><strong>Enquire</strong></p>
+        <p>
+  <a href="https://wa.me/919999999999" target="_blank">WhatsApp</a> |
+  <a href="mailto:info@joyfuljewel.com?subject=Gemstone Enquiry">Email</a>
+</p>
+
       </div>
     `;
   });
