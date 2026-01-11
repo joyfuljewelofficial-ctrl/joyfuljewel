@@ -18,7 +18,7 @@ function render(items) {
         <p>${s.weight}</p>
         <p>${s.cut}</p>
         <p>
-  <a href="https://wa.me/919999999999" target="_blank">WhatsApp</a> |
+  <a href="https://wa.me/919782101120" target="_blank">WhatsApp</a> |
   <a href="mailto:info@joyfuljewel.com?subject=Gemstone Enquiry">Email</a>
 </p>
 
